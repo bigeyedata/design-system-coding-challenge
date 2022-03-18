@@ -8,7 +8,7 @@ For this portion of your interview, you will be live-coding a simple Design Syst
 
 We're going to make a design system that helps us make a form. This form will be used for a newsletter signup.
 
-Link to the Figma Mocks: https://www.figma.com/file/2Ixi9XrJetSepHpqibhwOv/%5BInterview%5D-onsite-FE-design-system-eng?node-id=113%3A458
+The design and mocks are in a link that will be sent to you separately.
 
 ## Running the environment
 
@@ -18,7 +18,7 @@ As this is `create-react-app`, you can use CSS and CSS Modules. If you wish to u
 
 ## Your task
 
-Your task is to create a small design system of components, with the end goal of building this form. All of the visual assets you need are in the [Figma Mocks](https://www.figma.com/file/2Ixi9XrJetSepHpqibhwOv/%5BInterview%5D-onsite-FE-design-system-eng?node-id=113%3A458)
+Your task is to create a small design system of components, with the end goal of building this form. All of the visual assets you need are in the Figma Mocks.
 
 Specifically, you should create basic design system pieces for the following:
 
