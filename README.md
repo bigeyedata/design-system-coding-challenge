@@ -20,14 +20,12 @@ As this is `create-react-app`, you can use CSS and CSS Modules. If you wish to u
 
 Your task is to create a small design system of components, with the end goal of building this form. All of the visual assets you need are in the Figma Mocks.
 
-Specifically, you should create basic design system pieces for the following:
+Specifically, you should create basic design system components for the following:
 
 - Header
 - Body Text
-- Input (with the needed the input states)
+- Input Group (with variant for description)
 - Button
-
-As this is a design system, we hope that you can create a demo page showing the different states of these components.
 
 By the end, you should be able to construct a page with the signup form.
 
@@ -35,3 +33,4 @@ By the end, you should be able to construct a page with the signup form.
 
 - Create a system for organizing brand and product colors
 - Adding additional input variants from the designs (readonly/required, description, character count)
+- A demo page with the variants you've made
