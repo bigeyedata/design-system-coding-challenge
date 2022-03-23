@@ -1,0 +1,5 @@
+@use "./_tokens";
+
+body {
+  color: tokens.$red-500;
+}
